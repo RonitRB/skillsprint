@@ -150,7 +150,7 @@ function ProtectedRoute({children}) {
           {collapsed&&<i className="ri-menu-2-line text-2xl flex items-center" onClick={()=>setCollapsed(false)}></i>}
          </div>
          <h1 className='text-2xl text-white flex items-center'>
-           Quiz Portal 
+           SkillSprint
          </h1>
          <div>
          <div className='flex justify-center items-center gap-1'>

@@ -1,6 +1,7 @@
 {
-  "name": "frontend",
+  "name": "skillsprint-portal",
   "version": "0.1.0",
+  "description": "SkillSprint — Placement Preparation Portal",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",

@@ -35,7 +35,7 @@ function HomePage() {
   },[])
   return (
     user && <div>
-      <PageTitle title={`Hi ${user.name}, Welcome to Quiz Portal`}/>
+  <PageTitle title={`Hi ${user.name}, Welcome to SkillSprint`}/>
       <div className='divider'></div>
       <Row gutter={[16,16]} className="mt-2">
         {exams&&exams.map((exam,index)=>{

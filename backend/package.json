@@ -1,7 +1,7 @@
 {
-  "name": "backend",
+  "name": "skillsprint-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "SkillSprint — Placement Preparation API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

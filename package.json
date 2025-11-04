@@ -1,7 +1,7 @@
 {
-  "name": "online-quiz-portal-website",
+  "name": "skillsprint",
   "version": "1.0.0",
-  "description": "## Features: * Working with complex MongoDB, queries, schemas, models. * Separate User Interfaces for Users, Admins. * JWT Authentication and Password Hashing. * Admin can add exams with questions , options and answers. * Real time updates for all the crud operations in Questions and Exams Module. * Timer functionality for Exam Sessions. * Live Result Functionality after writting the exams. * Storing the results into Mongo DB. * Separate Reports / Analatics functionality for both Admin and User.",
+  "description": "SkillSprint — Placement Preparation Portal",
   "main": "index.js",
   "scripts": {
     "build": "cd backend && npm install && cd ../frontend && npm install && npm run build",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AashviKothari/QuizPortal.git"
+    "url": "git+https://github.com/RonitRB/skillsprint.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AashviKothari/QuizPortal/issues"
+    "url": "https://github.com/RonitRB/skillsprint/issues"
   },
-  "homepage": "https://github.com/AashviKothari/QuizPortal#readme"
+  "homepage": "https://github.com/RonitRB/skillsprint#readme"
 }
